@@ -1,5 +1,4 @@
-
-# Easy Seller
+### Easy Seller
 
 * Easy Seller concept is Introduced to give maximum margin to Product Sellers and low cost to Product Buyers.  
 
